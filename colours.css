@@ -1,0 +1,152 @@
+.home {
+    background-color : #fee6a6;
+    background-image : url(images/backgr_home.jpg);
+    color : #222328;
+  }
+
+
+.manual {
+    background-color : #fef8e2;
+    background-image : url(images/backgr_manual.jpg);
+  }
+
+
+.howto {
+    background-color : #f8e4c9;
+    background-image : url(images/backgr_howto.jpg);
+  }
+
+
+.download {
+    background-color : #fbede0;
+    background-image : url(images/backgr_download.jpg);
+  }
+
+
+.contact {
+    background-color : #e7fed0;
+    background-image : url(images/backgr_contact.jpg);
+  }
+
+
+.home_bg {
+    background-color : #f4f4d2;
+  }
+
+
+.manual_bg {
+    background-color : #bfcbbf;
+  }
+
+
+.howto_bg {
+    background-color : #ead6cb;
+  }
+
+
+.download_bg {
+    background-color : #e4dccd;
+  }
+
+
+.contact_bg {
+    background-color : #ddfee3;
+  }
+
+
+h1 {
+    color : #4a3c2f;
+  }
+
+
+p {
+    margin : 0px;
+    padding : 0px;
+    color : #303020;
+  }
+
+
+li {
+    color : #303020;
+  }
+
+
+a {
+    color : #929398;
+  }
+
+
+a:active, a:hover {
+    color : #405055;
+  }
+
+
+a.navi {
+    color : #fef8e3;
+  }
+
+
+a.navi:active, a.navi:hover {
+    color : #4a3c2f;
+  }
+
+
+a.to_top:active, a.to_top:hover {
+    color : #606040;
+  }
+
+
+.to_top {
+    color : #929398;
+  }
+
+
+#main_menu a {
+    color: #fee6a5;
+  }
+
+
+#main_menu a:hover, #main_menu a:active {
+    color: #ffffff;
+  }
+
+
+#footer {
+    color : #424348;
+  }
+
+
+#footer a {
+    color: #525358;
+  }
+
+
+#footer a:hover, #footer a:active {
+    color: #828388;
+  }
+
+
+#footer.footer_bg_home {
+    background-image : url('images/footer_home.jpg');
+  }
+
+
+#footer.footer_bg_manual {
+    background-image : url('images/footer_manual.jpg');
+  }
+
+
+#footer.footer_bg_howto {
+    background-image : url('images/footer_howto.jpg');
+  }
+
+
+#footer.footer_bg_download {
+    background-image : url('images/footer_download.jpg');
+  }
+
+
+#footer.footer_bg_contact {
+    background-image : url('images/footer_contact.jpg');
+  }
+
